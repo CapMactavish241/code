@@ -1,3 +1,3 @@
 # code
 ## Free code solutions
-Add your question to the q.md file and get answer in the Answer.java file
+The q.md has every question i've ever been asked to do
