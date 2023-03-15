@@ -1,12 +1,4 @@
-[](#one)
-```java
-public class one{
-   public static void main(String[] args){
-     System.out.println("Placeholder");
-   }
-}
-```
-[](#two)
+[1.](#one)
 ```java
 public class one{
    public static void main(String[] args){
