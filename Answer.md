@@ -1,4 +1,4 @@
-[1.](#one)
+[       ](#one)
 ```java
 import java.util.Scanner;
 public class Main{
