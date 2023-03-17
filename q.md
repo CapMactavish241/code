@@ -9,8 +9,8 @@ Solution: [click here for answer](https://github.com/CapMactavish241/code/blob/m
 
 | **N** | **R** |
 |:-----:|:-----:|
-|   1   |   8%  |
-|   2   |  8.5% |
-|   3   |   9%  |
+|   1 years  |   8%  |
+|   2 years  |  8.5% |
+|   3 years  |   9%  |
 
 Solution: [click here for answer](https://github.com/CapMactavish241/code/blob/main/Answer.md#two)
