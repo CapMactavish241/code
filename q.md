@@ -7,10 +7,10 @@ Questions:
 Solution: [click here for answer](https://github.com/CapMactavish241/code/blob/main/Answer.md#one)
 - 2. Design a class named 'Investment', to calculate the amount collected by an investor for different rates of interest base on the formula A=P(1+ R/100)^N where A = amount due, P = amount invested, R = rate of interest and N = number of years.The bank has the following rates of interest:
 
-| N | R    |
-|---|------|
-| 1 | 8%   |
-| 2 | 8.5% |
-| 3 | 9%   |
+| **N** | **R** |
+|:-----:|:-----:|
+|   1   |   8%  |
+|   2   |  8.5% |
+|   3   |   9%  |
 
 Solution: [click here for answer](https://github.com/CapMactavish241/code/blob/main/Answer.md#two)
