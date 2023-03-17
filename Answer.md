@@ -1,4 +1,4 @@
-[1.](#one):
+- 1. <a name="one"/>
 ```java
 import java.util.Scanner;
 public class Main{
@@ -16,8 +16,7 @@ public class Main{
    }
 }   
 ```
-[2.](#two)
-two:
+- 2. <a name="two"/>
 ```java
 import java.util.Scanner;
 
