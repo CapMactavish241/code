@@ -1,4 +1,4 @@
-[1.](#one)
+[1.](#one):
 ```java
 import java.util.Scanner;
 public class Main{
@@ -17,6 +17,7 @@ public class Main{
 }   
 ```
 [2.](#two)
+two:
 ```java
 import java.util.Scanner;
 
